@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm V 👾</h1>
-<p align="center">💻 Cybersecurity Enthusiast | 👨‍💻 Learning to Code | 🧠 Future Hacker</p>
+<p align="center">💻 Cybersecurity Enthusiast | 👨‍💻 Learning to Code | 🧠 Future AI engineer</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,github" />
